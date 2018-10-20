@@ -29,7 +29,7 @@ class Footer extends React.Component {
               <div className="copyright">
                 &copy; {1900 + new Date().getYear()}, made with <i className="fa fa-heart heart"></i> 
               </div>
-            </div>
+            </div>  
           </Row>
         </Container>
       </footer>
